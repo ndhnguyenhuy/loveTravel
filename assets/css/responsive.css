@@ -1,0 +1,189 @@
+/* Mobile & Tablet */
+@media (max-width: 1023px) {
+  .hide-on-mobile-tablet {
+    display: none;
+  }
+  .slider {
+    height: auto;
+    padding-bottom: 100px;
+  }
+  .navbar_header {
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: center;
+  }
+  .navbar-page-Bars {
+    margin: 8px 0 0 0;
+  }
+  .search_select {
+    width: 80%;
+  }
+  .search_theme {
+    flex-direction: column;
+    width: 80%;
+    margin-top: 20px;
+  }
+  .search_theme-item {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .destination_travel {
+    width: 100%;
+  }
+  .search_theme-img {
+    width: 35px;
+    object-fit: cover;
+    margin: auto;
+  }
+  .search_theme-name {
+    font-size: 12px;
+  }
+  .select_tour {
+    margin: 12px 0;
+  }
+  .select-link {
+    margin-top: 10px;
+  }
+  .content_discover {
+    height: auto;
+  }
+  .sale_place {
+    margin-top: 30px;
+  }
+  .footer_heading {
+    text-align: center;
+  }
+  .footer_rate-input {
+    margin-right: 10px;
+    width: 80%;
+  }
+  .input_opinion {
+    width: 100%;
+  }
+  .footer_list {
+    margin-top: 30px;
+  }
+  .footer_source {
+    flex-direction: column;
+  }
+  .footer_theme,
+  .footer_copy {
+    margin: 12px 0;
+    font-size: 12px;
+    letter-spacing: 3px;
+  }
+  .page-on-mobile-tablet {
+    display: block;
+  }
+}
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+  .hide-on-tablet {
+    display: none;
+  }
+  .packpages_center {
+    top: 30%;
+  }
+  .holiday-full-width-bg {
+    height: 300px;
+  }
+  .next_holiday {
+    position: absolute;
+    top: 20%;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-left: 20px;
+  }
+  .holiday_home {
+    top: 60%;
+    left: 29%;
+    margin: 0;
+  }
+  .where_decription {
+    padding-bottom: 30px;
+  }
+  .time_line-container {
+    left: 0;
+    width: 100%;
+    justify-content: space-around;
+  }
+  .footer_section {
+    padding-bottom: 80px;
+  }
+}
+/* Mobile */
+@media (max-width: 739px) {
+  .hide-on-mobile {
+    display: none;
+  }
+  .page-on-mobile-tablet {
+    width: 80%;
+  }
+  .search_heading {
+    font-size: 35px;
+    line-height: 60px;
+  }
+  .search_decriptions {
+    font-size: 22px;
+    text-align: center;
+  }
+  .search-icon {
+    margin-left: auto;
+  }
+  #Select-tiltle {
+    width: 100%;
+  }
+
+  .select_options {
+    font-size: 14px;
+  }
+  .next_holiday {
+    position: relative;
+    top: 20px;
+
+    margin-left: 20px;
+  }
+  .next_holiday-heading {
+    font-size: 40px;
+    line-height: 34px;
+  }
+  .holiday_home {
+    position: absolute;
+    top: 61%;
+    margin-left: 0px;
+    padding: 8px 20px;
+  }
+  .container_slider-time {
+    width: 100%;
+  }
+  .slider_navigation {
+    width: 100%;
+  }
+  .time_line-container {
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    left: 0;
+    height: auto;
+  }
+  .time_items1::after,
+  .time_items2::after,
+  .time_items3::after {
+    display: none;
+  }
+  .footer_rate {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .footer_rate-submit {
+    width: 80%;
+    margin-right: 10px;
+  }
+  .submit_opinion {
+    width: 100%;
+  }
+  .where_order {
+    padding-bottom: 30px;
+  }
+}
