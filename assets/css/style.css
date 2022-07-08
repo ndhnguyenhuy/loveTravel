@@ -16,7 +16,7 @@ html {
 .slider {
   height: 800px;
   margin-bottom: 40px;
-  background: url("/assets/img/parallax-2.jpg") center no-repeat;
+  background: url("../img/parallax-2.jpg") center no-repeat;
   background-size: cover;
 }
 #navbar {
