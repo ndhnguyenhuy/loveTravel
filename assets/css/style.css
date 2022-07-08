@@ -16,7 +16,7 @@ html {
 .slider {
   height: 800px;
   margin-bottom: 40px;
-  background: url("../img/parallax-2.JPG") center no-repeat;
+  background: url("../img/parallax-2.jpg") center no-repeat;
   background-size: cover;
 }
 #navbar {
@@ -667,7 +667,7 @@ input[name="r"] {
 }
 .discover_city {
   width: 100%;
-  background: url("/assets/img/Hình-cảnh-hoàng-hôn-đẹp-4k-scaled.JPG") no-repeat
+  background: url("../img/Hình-cảnh-hoàng-hôn-đẹp-4k-scaled.jpg") no-repeat
     center;
   background-size: cover;
   height: 270px;
@@ -702,7 +702,7 @@ input[name="r"] {
 .discover_nature {
   width: 100%;
   height: 270px;
-  background: url("/assets/img/1626106436_226_Tuyen-tap-hinh-nen-rung-tre-va-truc-xanh-mat.JPG")
+  background: url("../img/1626106436_226_Tuyen-tap-hinh-nen-rung-tre-va-truc-xanh-mat.jpg")
     no-repeat center;
   background-size: cover;
 }
